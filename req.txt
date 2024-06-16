@@ -1,0 +1,15 @@
+numpy
+sacred
+torch
+pyyaml
+einops
+torch_geometric
+torch_scatter -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_sparse -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_cluster -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_spline_conv -f https://data.pyg.org/whl/torch-2.3.0+cu121.html
+gym
+git+https://github.com/oxwhirl/smacv2.git
+lbforaging
+tensorboard_logger
+torch-tb-profiler
